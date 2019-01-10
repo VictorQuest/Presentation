@@ -35,7 +35,9 @@ Specialities: Project Management, People Management, Coaching.
 </div>
 <!--Short article section ends-->
 <div class="section">
-## Let's get in Touch
+<h2> Let's get in Touch
+</h2>
+
 <a href="https://www.facebook.com/emilienvictor.barthelemy" target="_blank">Facebook</a>
 </br>
 <a href="https://www.linkedin.com/in/e-victor-barthélémy-6aa023100" target="_blank">LinkedIn</a>
