@@ -11,17 +11,13 @@ Jr. Web Developer
 <!--Body Part starts-->
 <div class="section">
 <h1> About Me </h1>
-I spent the last 13 years working in different fields of business, broadly in retail, coaching and in the event production, with 8 years of meaningful practical experience in management.
-Today, aside from many diplomas and qualifications, I keep learning and leverage my interest in what I love and what I’m curious about.
-</br>
-Technology & Agronomy lover, I develop new approaches and setups in hydroponic culture (crop without soil) in order to improve the growth process in urban environment.
-On the year 2017, I pushed the boundaries of the impossible by growing root-vegetables without any soil with the help of a DIY Food Computer.
-Lately, my team and I won the iOT Challenge 2018 by Samsung against 16 other projects by building a Food Computer from scratch in less than 72 hours.
+<p>I spent the last 13 years working in different fields of business, broadly in retail, coaching and in the event production, with 8 years of meaningful practical experience in management.
 
-Enrolled in the BeCode training program 2019, I currently work on full-time IT projects as Jr. Front End Developer. Meanwhile I follow preparatory courses in both Computer Science and in Technology for the purpose of undertaking an MSc in Technology Management next september.
+Today, I keep learning and leverage my interest in what I love and what I’m curious about.
 
 Specialities: Project Management, People Management, Coaching.
 <br/>
+</p>
 <!--Body Part ends-->
 <!--Short article section starts-->
 <h2> Last Certifications
