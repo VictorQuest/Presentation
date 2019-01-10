@@ -13,7 +13,7 @@ Jr. Web Developer
 <h1> About Me </h1>
 I spent the last 13 years working in different fields of business, broadly in retail, coaching and in the event production, with 8 years of meaningful practical experience in management.
 Today, aside from many diplomas and qualifications, I keep learning and leverage my interest in what I love and what I’m curious about.
-
+</br>
 Technology & Agronomy lover, I develop new approaches and setups in hydroponic culture (crop without soil) in order to improve the growth process in urban environment.
 On the year 2017, I pushed the boundaries of the impossible by growing root-vegetables without any soil with the help of a DIY Food Computer.
 Lately, my team and I won the iOT Challenge 2018 by Samsung against 16 other projects by building a Food Computer from scratch in less than 72 hours.
